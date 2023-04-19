@@ -12,7 +12,7 @@ import SwiftyJSON
 
 class HomeViewModel : ObservableObject {
     @Published var users : UserModelToJson?
-    @State 
+    //@State
     
     func fetchUserList() -> Void {
         print("call fetchUserList")

@@ -1,2 +1,2 @@
-# chat-app-swift
+# Chat app Swift
 Swift chat app using socket.io

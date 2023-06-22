@@ -1,2 +1,4 @@
-# Chat app Swift
-Swift chat app using socket.io
+# Chat app Swift with socket.io
+
+Realtime chat app using socket.io 
+

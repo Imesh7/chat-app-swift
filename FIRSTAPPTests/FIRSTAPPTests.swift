@@ -2,7 +2,7 @@
 //  FIRSTAPPTests.swift
 //  FIRSTAPPTests
 //
-//  Created by Chathura Jayasekara on 2023-02-28.
+//  Created by Imesh Madusanka on 2023-02-28.
 //
 
 import XCTest

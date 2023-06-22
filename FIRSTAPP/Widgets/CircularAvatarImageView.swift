@@ -2,7 +2,7 @@
 //  CircularAvatarImageView.swift
 //  FIRSTAPP
 //
-//  Created by Chathura Jayasekara on 2023-03-07.
+//  Created by Imesh Madusanka on 2023-03-07.
 //
 
 import UIKit

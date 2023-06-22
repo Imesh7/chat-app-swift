@@ -2,7 +2,7 @@
 //  HomeViewModel.swift
 //  FIRSTAPP
 //
-//  Created by Chathura Jayasekara on 2023-03-02.
+//  Created by Imesh Madusanka on 2023-03-02.
 //
 
 import Foundation
